@@ -1,0 +1,20 @@
+{
+  "array": [
+    {
+      "img": "http://www.012logo.com/webpic/yingwen3D-zitishejixinshang%20%2810%29.jpg",
+      "text": "北京首都国际机场"
+    },
+    {
+      "img": "http://www.012logo.com/webpic/yingwen3D-zitishejixinshang%20%2810%29.jpg",
+      "text": "深圳宝安国际机场"
+    },
+    {
+      "img": "data/male_user_icon.svg",
+      "text": "上海虹桥国际机场"
+    },
+    {
+      "img": "data/male_user_icon.svg",
+      "text": "广州白云山国际机场"
+    }
+  ]
+}
